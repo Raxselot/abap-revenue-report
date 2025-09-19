@@ -1,0 +1,26 @@
+{
+    "$schema": "https://schema.abaplint.org/dst/all.schema.json",
+    "global": {
+      "files": "/src/**/*.abap",
+      "skipGeneratedGatewayClasses": true
+    },
+    "rules": {
+      "7bit_ascii": true,
+      "abapdoc": true,
+      "allowed_object_naming": true,
+      "empty_line_in_statement": true,
+      "forbidden_identifier": { "forbidden": ["WRITE", "UNDO", "COMMIT WORK"] },
+      "indentation": { "style": "space", "indentation": 2 },
+      "keyword_case": { "style": "upper" },
+      "line_length": { "length": 120 },
+      "naming": true,
+      "no_inline_data": false,
+      "no_tab": true,
+      "prefer_returning": true,
+      "pseudo_comment": true,
+      "release_id": "755", 
+      "unnecessary_closing": true,
+      "use_new": true
+    }
+  }
+  
