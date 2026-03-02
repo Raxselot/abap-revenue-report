@@ -9,11 +9,6 @@ Der Fokus liegt auf sauberer Architektur statt nur auf Ergebnisanzeige:
 - UI-Ausgabe mit SALV
 - ABAP Unit Tests für Kernlogik
 
-## Warum dieses Projekt für Bewerbungen geeignet ist
-- Es demonstriert technische Tiefe (Design, Validierung, Fehlerpfade, Tests).
-- Es ist fachlich nachvollziehbar (Revenue pro Carrier und Währung).
-- Es ist für Interviews gut besprechbar (Trade-offs, Erweiterbarkeit, Qualität).
-
 ## Repository-Struktur
 ```text
 .
